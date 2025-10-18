@@ -3,6 +3,11 @@ My Business Analyst projects (Excel, SQL, Power BI, Case Studies)
 
 Hi, I'm **Farhan Raza**, a BBA student passionate about turning data into business insights.  
 This portfolio contains my learning journey and projects in **Excel, SQL, Power BI, and Business Analysis**.
+---
+## 👨‍💻 About Me
+- 🎓 BBA Student (2nd Semester), aspiring to become a Data / Business Analyst  
+- 📈 Learning Excel, SQL, and Power BI to analyze real-world business problems  
+- 🌱 Currently building hands-on projects and dashboards for my portfolio  
 
 ---
 
