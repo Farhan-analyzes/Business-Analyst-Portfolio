@@ -32,4 +32,4 @@ This portfolio contains my learning journey and projects in **Excel, SQL, Power 
 ---
 
 💼 **Connect with me:**  
-[LinkedIn](www.linkedin.com/in/farhan-raza-a3504a376) | [Email](mailto:farhanraza4950@gmail.com)
+[LinkedIn](https://linkedin.com/in/farhan-raza-a3504a376) | [Email](mailto:farhanraza4950@gmail.com)
